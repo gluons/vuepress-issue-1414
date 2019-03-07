@@ -1,0 +1,22 @@
+{
+	"root": true,
+	"extends": [
+		"xo/esnext",
+		"plugin:vue/recommended"
+	],
+	"plugins": [
+		"vue"
+	],
+	"env": {
+		"node": true,
+		"browser": true
+	},
+	"parserOptions": {
+		"parser": "babel-eslint",
+		"sourceType": "module"
+	},
+	"rules": {
+		"vue/html-indent": ["error", "tab"],
+		"vue/script-indent": ["error", "tab"]
+	}
+}
