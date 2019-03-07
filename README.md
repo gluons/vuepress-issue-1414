@@ -28,3 +28,5 @@ A repo to repro import error on VuePress.
 
    # Error throwed !!
    ```
+
+   ![Build Result](./screenshots/Screenshot-VuePress-Build.png)
