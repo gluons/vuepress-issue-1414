@@ -1,4 +1,4 @@
-# VuePress plugin issue
+# VuePress plugin [issue 1414](https://github.com/vuejs/vuepress/issues/1414)
 
 A repo to repro import error on VuePress.
 
