@@ -6,7 +6,7 @@ A repo to repro import error on VuePress.
 
 1. Build the example VuePress plugin.  
    ```sh
-   cd vue-component-with-plugin/
+   cd vue-component-with-plugin
    yarn
    yarn build
    cd .. # Go back to root directory
